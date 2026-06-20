@@ -70,7 +70,7 @@ export function TestimonialsSection() {
               <SpotlightCard className="glass rounded-2xl p-7 card-hover h-full flex flex-col">
                 <Quote className="w-8 h-8 text-[var(--accent)]/40 mb-4 shrink-0" aria-hidden="true" />
                 <blockquote className="text-[var(--text-muted)] text-sm leading-relaxed mb-6 flex-1">
-                  <p>"{text}"</p>
+                  <p>&ldquo;{text}&rdquo;</p>
                 </blockquote>
                 <div className="flex items-center gap-3 pt-4 border-t border-[var(--line)]">
                   <div className="w-9 h-9 rounded-full bg-[var(--brand-500)]/20 flex items-center justify-center shrink-0">
