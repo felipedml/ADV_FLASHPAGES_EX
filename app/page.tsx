@@ -9,7 +9,7 @@ import { TestimonialsSection } from '@/components/sections/TestimonialsSection'
 import { FAQSection } from '@/components/sections/FAQSection'
 import { CTASection } from '@/components/sections/CTASection'
 import { SITE } from '@/lib/utils'
-import { faqItems } from '@/components/sections/FAQSection'
+import { faqItems } from '@/lib/faq-data'
 
 const faqSchema = {
   '@context': 'https://schema.org',
