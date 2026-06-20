@@ -57,8 +57,8 @@ export function DifferentialsSection() {
               <div className="gold-line mb-8" />
               <blockquote className="glass rounded-xl p-6">
                 <p className="font-display text-lg italic text-[var(--text)] mb-3 leading-relaxed">
-                  "Acreditamos que direito bem exercido é aquele que devolve à pessoa a tranquilidade
-                  para viver e trabalhar sem medo do imprevisível jurídico."
+                  &ldquo;Acreditamos que direito bem exercido é aquele que devolve à pessoa a tranquilidade
+                  para viver e trabalhar sem medo do imprevisível jurídico.&rdquo;
                 </p>
                 <footer className="text-[var(--text-muted)] text-sm">
                   <cite>— Dr. Ricardo Bastos, Sócio-Fundador</cite>
